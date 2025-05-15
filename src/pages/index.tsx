@@ -61,7 +61,7 @@ const Home = () => {
           </div>
 
           <div className="mt-2 flex flex-col items-center gap-4 sm:flex-row">
-            <a href="https://api.whatsapp.com/send?phone=6289655239628&text=Halo%20kak%20saya%20ingin%20berkonsultasi%20terkait%20pembuatan%20website%20dan%20aplikasi%20di%20Informatics%20Open%20Project" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=628888730738&text=Halo%20kak%20saya%20ingin%20berkonsultasi%20terkait%20pembuatan%20website%20dan%20aplikasi%20di%20Informatics%20Open%20Project" target="_blank">
               <button className="outline-button flex gap-2">
                 Konsultasi Gratis
                 <IconBrandWhatsapp />
