@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="m-4 mx-auto w-full max-w-[968px] rounded-lg bg-white">
       <div className="container mx-auto w-full p-4 md:flex md:items-center md:justify-between md:p-6">
         <span className="text-sm text-gray-500 dark:text-gray-400 sm:text-center">
-          © 2023{" "}
+          © 2025{" "}
           <Link href="/" className="hover:underline">
             I-Pro
           </Link>
@@ -22,7 +22,7 @@ const Footer = () => {
           </li> */}
           <li>
             <Link
-              href="https://bit.ly/SyaratKetentuan-IPRO2024"
+              href="https://bit.ly/SyaratKetentuan-IPRO2025"
               target="_blank"
               className="hover:underline"
             >
