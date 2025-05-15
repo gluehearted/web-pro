@@ -46,7 +46,7 @@ const Home = () => {
             </button>
 
             <a
-              href="https://bit.ly/SyaratKetentuan-IPRO2024"
+              href="https://bit.ly/SyaratKetentuan-IPRO2025"
               target="_blank"
               className="text-sm text-blue-500 hover:text-blue-800"
             >
