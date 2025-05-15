@@ -17,7 +17,7 @@ const RequestQuotation = () => {
           </span>
 
           <a
-            href="https://bit.ly/SyaratKetentuan-IPRO2024"
+            href="https://bit.ly/SyaratKetentuan-IPRO2025"
             target="_blank"
             className="text-sm text-blue-500 hover:text-blue-800"
           >
@@ -27,7 +27,7 @@ const RequestQuotation = () => {
 
         <div className="mb-12 mt-12 w-full text-center md:mb-28">
           <iframe
-            src="https://bit.ly/PendaftaranProyek-IPRO2024"
+            src="https://bit.ly/PendaftaranProyek-IPRO2025"
             width="100%"
             height="3000"
           >
